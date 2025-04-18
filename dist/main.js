@@ -328,7 +328,7 @@ eval("__webpack_require__.r(__webpack_exports__);\nPromise.all(/*! import() */[_
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "http://localhost:3001/";
+/******/ 		__webpack_require__.p = "https://d2rlgquuf6ymrx.cloudfront.net/remote/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/consumes */
