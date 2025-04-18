@@ -329,7 +329,7 @@ eval("var moduleMap = {\n\t\"./store\": () => {\n\t\treturn Promise.all([__webpa
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "https://d2rlgquuf6ymrx.cloudfront.net/remote/";
+/******/ 		__webpack_require__.p = "http://localhost:3001/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/consumes */
